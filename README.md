@@ -1,6 +1,6 @@
 # zenn-normalizing
 
-Zenn 用のアプリケーション。正規化を説明しています。
+Zenn の本用のアプリケーション。正規化を説明しています。
 
 # Usage
 
@@ -14,7 +14,7 @@ $ npm start
 # package
 
 - React: 17.0.2
-- Redux-toolkit: 1.8.0
+- Redux-Toolkit: 1.8.0
 - normalizr: 3.6.1
 - MUI: 5.5.0
 - axios: 0.26.0
