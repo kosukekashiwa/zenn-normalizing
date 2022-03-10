@@ -22,7 +22,7 @@ const UserView: React.VFC = () => {
   return (
     <Paper variant="outlined" sx={{ padding: 2, background: grey[50] }}>
       <Stack spacing={2}>
-        <Box>User List</Box>
+        <Box sx={{ fontSize: '1.2rem', fontWeight: 'bold' }}>User List</Box>
         <UserAddForm />
         <Box>
           <Grid container spacing={2}>

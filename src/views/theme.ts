@@ -27,6 +27,13 @@ const theme = createTheme({
         },
       },
     },
+    MuiPaper: {
+      styleOverrides: {
+        root: {
+          color: '#333333',
+        },
+      },
+    },
   },
 });
 
